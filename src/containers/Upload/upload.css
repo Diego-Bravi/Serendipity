@@ -1,0 +1,164 @@
+.update{
+    float: right;
+    font-family: var(--font-family);
+    
+    border-radius: 20px;
+    border: 0px solid;
+    box-shadow:  0 0 3px var(--color-Hero-Button);
+    
+    
+    margin: -10px 80px 15px 50px;
+    padding: 0px 20px 15px 0px;
+    backdrop-filter: blur(15px);
+}
+
+.update-title{
+    margin-top: 30px;
+    
+    margin-bottom: 30px;
+    color: var(--color-Primary);
+    font-family: var(--font-family);
+    font-size: 12px;
+    
+}
+
+
+.update-box_upload{
+    
+    padding: 1px 120px 1px 0px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 80px var(  --color-Card-Button);
+    font-size: 12px;
+    
+    
+}
+
+.update-box_audio{
+    padding: 1px 120px 1px 0px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 0 solid ;
+    box-shadow:  0 0 20px var(  --color-Card-Button);
+    font-size: 12px;
+    align-items: center;
+    
+}
+.update-box_status{
+
+    padding: 1px 120px 1px 0px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 0 solid ;
+    box-shadow:  0 0 20px var(  --color-Card-Button);
+    font-size: 12px;
+    align-items: center;
+    
+}
+.update-box_release{
+
+    padding: 1px 120px 1px 0px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 0 solid ;
+    box-shadow:  0 0 20px var(  --color-Card-Button);
+    font-size: 12px;
+    align-items: center;
+}
+.update-box_roles{
+    
+    padding: 1px 120px 1px 0px;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 0 solid ;
+    box-shadow:  0 0 20px var(  --color-Card-Button);
+    font-size: 12px;
+    align-items: center;
+    
+}
+
+.update-box button{
+
+    position: absolute;
+    
+    background: transparent;
+    border: 0 solid;
+   
+   
+    align-items: center;
+
+    margin: 20px 0px 0px 10px;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+
+    border-radius: 50px;
+    
+   
+    padding: 8px;
+    border: 0 solid ;
+    box-shadow:  0 0 20px var(--color-Hero-Button);
+}
+
+.update-box h1{
+    color: var(--color-Hero-Button);
+    margin-bottom: 0px;
+}
+.update-box p{
+    color: var(--color-Secondary);
+    margin-top: 10px;
+}
+.update-box p ,h1{
+   
+    margin-left: 75px;
+    
+    align-items: center;
+    
+}
+
+.update-box img {
+    
+    
+    object-fit: cover;
+   
+   
+}
+
+.update-button h1,button{
+    
+    margin:  10px 10px 10px 20px;
+    display: inline;
+
+    background: transparent;
+    border: 0;
+    color: #FFF;
+   font-size: 20px;
+    align-items: center;
+    outline: none;
+    cursor: pointer;
+}
+
+.update-button{
+    
+    background-color: var(--color-Card-Button);
+    
+    outline: none;
+    cursor: pointer;
+
+    
+    border-radius: 10px;
+    margin: 20px 70px 10px 90px;
+    
+   
+    border: 0 solid ;
+    box-shadow:  0 0 10px var(--color-Hero-Button);
+
+    
+}
+
+
